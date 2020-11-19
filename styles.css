@@ -134,29 +134,10 @@
 .card-body .btn-color {
     background-color: #028090;
     color: #fff;
+    margin-top: 10px;
 }
 
-/* #honey1 {
-    background-image: url('./images/honey1.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 50%;
-    width: 100%;
-}
-#honey2 {
-    background-image: url('./images/honey2.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 50%;
-    width: 100%;
-}
-#honey3 {
-    background-image: url('./images/honey3.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 50%;
-    width: 100%;
-} */
+.navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+  }
