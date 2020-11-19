@@ -42,6 +42,10 @@
     padding: 60px 0px 10px;
 }
 
+.main-logo {
+    width: 85%;
+}
+
 .welcome-text {
     width: 50%;
     margin: 0 auto;
