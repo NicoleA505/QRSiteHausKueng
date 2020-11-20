@@ -1,0 +1,34 @@
+{
+    "learn-more-buttons": "Mehr Erfahren",
+    "welcomeSection": {
+        "welcome": "Wilkommen",
+        "welcome-tagline": "Genießen Sie Ihren Aufenthalt bei uns."
+    },
+    "farm-header-section": {
+        "farm-to-table-tagline": "Wir versuchen, so viele regionale Produkte wie möglich auf dem Buffet anzubieten, denn wir lieben und schätzen unsere Heimat."
+    },
+    "honey-section": {
+        "header": "Honig",
+        "food-desc": "Wir sind stolz darauf, lokalen Naturhonig aus Langen am Arlberg von Walter Stroltz anzubieten, der Imker und Skiführer ist."
+    },
+    "chives-section": {
+        "header": "Schnittlauch",
+        "food-desc": "Wir ernten unseren Schnittlauch jeden Sommer im Pazueltal, um unseren Rühreiern einen besonderen Berggeschmack zu verleihen."
+    },
+    "marmelade-section": {
+        "header": "Marmelade",
+        "food-desc": "Unsere köstlichen hausgemachten Marmeladen werden aus den wilden Blaubeeren hergestellt, die wir im Sommer pflücken, wobei wir manchmal mehr finden, als wir erhofft hatten!"
+    },
+    "bacon-section": {
+        "header": "Speck",
+        "food-desc": "Unser Speck stammt von unseren eigenen Schweinen, die im Sommer durch die Berge streifen."
+    },
+    "bread-section": {
+        "header": "Frisches Brot",
+        "food-desc": "Unser frisches Brot wird täglich von der Bäckerei in Lech an unsere Tür geliefert."
+    },
+    "milk-and-cheese-section": {
+        "header": "Milch und Käse",
+        "food-desc": "Die Käse- und Fleischspezialitäten unseres kontinentalen Buffets werden lokal von der Ländle Milch geliefert, einer Molkereigenossenschaft, die allen Vorarlberger Bauern gehört."
+    }
+}

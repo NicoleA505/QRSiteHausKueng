@@ -1,0 +1,34 @@
+{
+    "learn-more-buttons": "Learn More",
+    "welcome-section": {
+        "welcome": "Welcome",
+        "welcome-tagline": "Enjoy your stay with us."
+    },
+    "farm-header-section": {
+        "farm-to-table-tagline": "We try to offer as many regional products as possible on the buffet, because we love and appreciate our home."
+    },
+    "honey-section": {
+        "header": "Honey",
+        "food-desc": "We pride ourselves on offering local natural honeys made in Langen am Arlberg from Walter Stroltz who is a beekeeper and ski guide."
+    },
+    "chives-section": {
+        "header": "Chives",
+        "food-desc": "We harvest our chives every summer in the Pazueltal, to add a special mountain taste to our scrambled eggs."
+    },
+    "marmelade-section": {
+        "header": "Marmelade",
+        "food-desc": "Our delicious homemade jams are made from the wild blueberries that we pick in summer, sometimes finding more than we bargained for!"
+    },
+    "bacon-section": {
+        "header": "Bacon",
+        "food-desc": "Our bacon comes from our own pigs who roam the mountains in summer. "
+    },
+    "bread-section": {
+        "header": "Fresh Bread",
+        "food-desc": "Our fresh bread is delivered daily to our door from the bakery in Lech"
+    },
+    "milk-and-cheese-section": {
+        "header": "Milk & Cheese",
+        "food-desc": " The specialty cheeses and meats from our continental buffet are delivered locally from Ländle Milch, which is a dairy cooperative belonging to all the local farmers of Vorarlberg. 'Bergkäse', which literally translates to 'Mountain Cheese' is made from the milk of local grazing cows."
+    }
+}
