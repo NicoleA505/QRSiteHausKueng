@@ -1,181 +1,182 @@
 * {
-    box-sizing: border-box;
-    margin: 0px;
-    padding: 0px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
 }
 
 /* NAVBAR */
 
 .navbar-brand i {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 .navbar {
-    transition: background-color 200ms linear;
+  transition: background-color 200ms linear;
 }
 
 .nav-langs {
-    width: 70px !important;
-    display: flex;
-    justify-content: space-between;
-    font-size: 1.3rem;
+  width: 70px !important;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.3rem;
 }
 
 .welcome-section {
-    background-image: linear-gradient(0deg, rgba(0,10,10,0.7), rgba(10,10,10,0.5)),
-    url('images/skiing.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    width: 100%;
-    height: 70vh;
-    color: #EBEBEB;
-    font-family: 'Raleway', 'Arial', 'sans-serif';
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 10, 10, 0.7),
+      rgba(10, 10, 10, 0.5)
+    ),
+    url("images/skiing.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 70vh;
+  color: #ebebeb;
+  font-family: "Raleway", "Arial", "sans-serif";
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .main-logo-container {
-    padding: 60px 0px 10px;
+  padding: 60px 0px 10px;
 }
 
 .main-logo {
-    width: 85%;
+  width: 85%;
 }
 
 .welcome-text {
-    width: 50%;
-    margin: 0 auto;
-    text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .welcome-text h2 {
-    font-size: 1.6rem;
+  font-size: 1.6rem;
 }
 
 .welcome-text p {
-    font-weight: 200;
-    line-height: 1;
-    font-size: 0.8rem;
+  font-weight: 200;
+  line-height: 1;
+  font-size: 0.8rem;
 }
 
 /* MAIN */
 
 .farm-to-table {
-    font-family: 'Montserrat', 'Raleway', 'Arial', 'sans-serif';
-    text-align: center;
-    padding: 80px 0px;
+  font-family: "Montserrat", "Raleway", "Arial", "sans-serif";
+  text-align: center;
+  padding: 80px 0px;
 }
 
 .farm-to-table-image {
-    background-image: url('./images/cowsInField.png');
-    background-position: 30% 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 40vh;
+  background-image: url("./images/cowsInField.png");
+  background-position: 30% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
 }
 
 .farm-heading {
-    color: #028090;
-    font-size: 2rem;
-    text-transform: uppercase;
-    font-weight: 400;
-    margin: 0px;
+  color: #028090;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0px;
 }
 
 .lineAccent {
-    height: 1px;
-    width: 150px;
-    background-color: #028090;
-    margin: 10px auto 15px;
+  height: 1px;
+  width: 150px;
+  background-color: #028090;
+  margin: 10px auto 15px;
 }
 
 .farm-to-table h5 {
-    font-size: 0.9rem;
-    font-family: 'Raleway';
-    line-height: 1.5;
-    /* font-weight: lighter; */
-    width: 85%;
-    margin: 0 auto;
-    color: #707070;
+  font-size: 0.9rem;
+  font-family: "Raleway";
+  line-height: 1.5;
+  /* font-weight: lighter; */
+  width: 85%;
+  margin: 0 auto;
+  color: #707070;
 }
 
 .honey-section {
-    padding: 0px 30px;
+  padding: 0px 30px;
 }
 
 .farmIcon {
-    width: 35px;
-    margin-right: 5px;
-    fill: #028090;
+  width: 35px;
+  margin-right: 5px;
+  fill: #028090;
 }
 
 .farmLogo-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
 }
 
 .image-container {
-    height: 500px;
+  height: 500px;
 }
 
 .card-title .title-headline {
-    color: #028090;
-    font-size: 2rem;
-    font-family: 'Montserrat';
-    margin: 0px;
+  color: #028090;
+  font-size: 2rem;
+  font-family: "Montserrat";
+  margin: 0px;
 }
 
 .card-body .farm-text {
-    font-family: 'Raleway';
-    color: #707070;
+  font-family: "Raleway";
+  color: #707070;
 }
 
 .card-body {
-    margin: 30px 0px;
+  margin: 30px 0px;
 }
 
 .card-body .btn-color {
-    background-color: #028090;
-    color: #fff;
-    margin-top: 10px;
+  background-color: #028090;
+  color: #fff;
+  margin-top: 10px;
 }
 
 .navbar-fixed-top.scrolled {
-    background-color: #fff !important;
-    transition: background-color 200ms linear;
-  }
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+}
 
+footer {
+  background-color: #028090;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 
+.main-logo-footer {
+  width: 60px;
+  height: 20px;
+  margin: 10px auto 0px;
+}
 
-  footer {
-    background-color: #028090;
-    height: 40px;
-    width: 100%;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
+.icon-attributions {
+  font-size: 4px;
+  color: #fff;
+  text-align: left;
+  position: relative;
+}
 
-  .main-logo-footer {
-      width: 60px;
-      height: 20px;
-      margin: 10px auto 0px;
-  }
-
-  .icon-attributions {
-      font-size: 4px;
-      color: #fff;
-      text-align: left;
-      position: relative;
- 
-  }
-
-  .icon-attributions a {
-      color: #fff;
-  }
+.icon-attributions a {
+  color: #fff;
+}
